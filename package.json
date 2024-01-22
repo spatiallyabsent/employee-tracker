@@ -1,0 +1,25 @@
+{
+  "name": "employee-tracker",
+  "version": "1.0.0",
+  "description": "A CLA used to track and modify an employee database using Node, Inquirer, and MySQL.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "employee",
+    "tracker",
+    "node.js",
+    "inquirer",
+    "mysql",
+    "database",
+    "management",
+    "command-line"
+  ],
+  "author": "SpatiallyAbsent",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.2.4",
+    "mysql2": "^3.7.1"
+  }
+}
